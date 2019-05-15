@@ -11,8 +11,19 @@ Code accompanying the paper **Label Distribution Learning with Label-Specific Fe
 
 DataSet
 --
+Emotion6 http://chenlab.ece.cornell.edu/people/kuanchuan/index.html
 
+Flickr_LDL Twitter_LDL http://cv.nankai.edu.cn/projects/VSA/VSA.html
+                       https://github.com/sherleens/EmotionDistributionLearning
 
 How to use
 --
 run LSDemo.m 
+
+Environment
+--
+Ubuntu 18.04
+
+Matlab R2018a
+
+Intel® Core™ i5-6500 CPU @ 3.20GHz × 4
