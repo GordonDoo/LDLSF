@@ -15,7 +15,7 @@ Emotion6:
 
 http://chenlab.ece.cornell.edu/people/kuanchuan/index.html
 
-Flickr_LDL Twitter_LDL:
+Flickr_LDL,Twitter_LDL:
 
 http://cv.nankai.edu.cn/projects/VSA/VSA.html
 
