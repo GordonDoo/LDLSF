@@ -11,10 +11,15 @@ Code accompanying the paper **Label Distribution Learning with Label-Specific Fe
 
 DataSet
 --
-Emotion6 http://chenlab.ece.cornell.edu/people/kuanchuan/index.html
+Emotion6:
 
-Flickr_LDL Twitter_LDL http://cv.nankai.edu.cn/projects/VSA/VSA.html
-                       https://github.com/sherleens/EmotionDistributionLearning
+http://chenlab.ece.cornell.edu/people/kuanchuan/index.html
+
+Flickr_LDL Twitter_LDL:
+
+http://cv.nankai.edu.cn/projects/VSA/VSA.html
+
+https://github.com/sherleens/EmotionDistributionLearning
 
 How to use
 --
