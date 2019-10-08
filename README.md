@@ -7,7 +7,8 @@ on the relative importance of different labels to a particular instance.
 
 Publication
 --
-Code accompanying the paper **Label Distribution Learning with Label-Specific Features**.
+Code accompanying the paper **Label Distribution Learning with Label-Specific Features**. IJCAI 2019.
+https://doi.org/10.24963/ijcai.2019/460
 
 DataSet
 --
