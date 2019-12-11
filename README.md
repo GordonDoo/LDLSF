@@ -1,4 +1,5 @@
 # CODE-of-LDLSpecificFeatures
+This is the implementation of "Label Distribution Learning with Label-Specific Features".
 
 Introduction
 --
