@@ -1,6 +1,5 @@
 # CODE-of-LDLSpecificFeatures
 
-
 Introduction
 --
 Label distribution learning (LDL) can be viewed as the generalization of multi-label learning. This novel paradigm focuses
